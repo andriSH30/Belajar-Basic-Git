@@ -1,4 +1,9 @@
+head{
+    text-color: red;
+}
+
 body{
   font-family: Georgia;
+  font-size: 10;
 }
 
