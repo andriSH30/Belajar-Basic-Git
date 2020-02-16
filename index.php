@@ -7,6 +7,7 @@
 </head>
 <body>
     <p>Mencoba Menggunakan git remote</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae quo, aperiam ipsum ratione a dolor tempore libero, cum ex laudantium velit illo nisi natus doloremque laboriosam temporibus laborum repellendus veritatis.</p>
     
 </body>
 </html>
